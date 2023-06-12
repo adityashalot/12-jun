@@ -42,10 +42,33 @@
 
 img{
     height: 250px;
-    width: 470px;
+    width: 450px;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 p2{
+    background-color: white;   
+}
+
+.button{
     background-color: white;
-    
+}
+
+.box_button{
+    background-color: silver;
+    font-size: 15px;
+    padding:0rem 6rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    cursor: pointer;
+}
+
+.box_button2{
+     background-color: silver;
+    font-size: 15px;
+    padding:0rem 6rem;
+    margin-top: 2rem;
+    margin-left: 7rem;
+    cursor: pointer;
 }
