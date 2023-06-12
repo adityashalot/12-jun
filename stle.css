@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(185, 185, 90);
+}
+
+.navigation{
+    padding-top: 1rem;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.container{
+    background-color: grey;
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container_button{
+    background-color: white;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(193, 193, 75);
+    border-radius: 5px;
+    padding: 1rem 6rem;
+    cursor: pointer;
+}
+.container2{
+    background-color: rgb(75, 75, 75);
+    height: 25rem;
+}
