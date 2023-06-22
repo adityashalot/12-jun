@@ -18,6 +18,7 @@
     justify-content: space-around;
     align-items: center;
 }
+
 .container_button{
     background-color: white;
     font-size: 25px;
@@ -27,6 +28,7 @@
     padding: 1rem 6rem;
     cursor: pointer;
 }
+
 .container2{
     background-color: rgb(75, 75, 75);
     height: 27rem;  
@@ -71,4 +73,10 @@ p2{
     margin-top: 2rem;
     margin-left: 7rem;
     cursor: pointer;
+}
+
+.copyright{
+    padding-top: 1rem;
+    text-align: center;
+    color: white;
 }
