@@ -5,13 +5,13 @@
 .navigation{
     padding-top: 1rem;
     text-align: center;
-    color: white;
+    color: rgb(255,255,255);
     font-size: 3rem;
     font-weight: bold;
 }
 
 .container{
-    background-color: grey;
+    background-color: rgb(128, 128, 128);
     height: 5rem;
     width: 100%;
     display: flex;
@@ -20,7 +20,7 @@
 }
 
 .container_button{
-    background-color: white;
+    background-color: rgb(255,255,255);
     font-size: 25px;
     font-weight: bold;
     color: rgb(193, 193, 75);
@@ -38,7 +38,7 @@
 .box{
     width: 800px;
     height: 400px;
-    background-color: white;
+    background-color: rgb(255,255,255);
     margin: 20px;
 }
 
@@ -50,15 +50,15 @@ img{
 }
 
 p2{
-    background-color: white;   
+    background-color: rgb(255,255,255);   
 }
 
 .button{
-    background-color: white;
+    background-color: rgb(255,255,255);
 }
 
 .box_button{
-    background-color: silver;
+    background-color: rgb(192, 192, 192);
     font-size: 15px;
     padding:0rem 6rem;
     margin-top: 2rem;
@@ -67,7 +67,7 @@ p2{
 }
 
 .box_button2{
-     background-color: silver;
+     background-color: rgb(192, 192, 192);
     font-size: 15px;
     padding:0rem 6rem;
     margin-top: 2rem;
@@ -78,5 +78,5 @@ p2{
 .copyright{
     padding-top: 1rem;
     text-align: center;
-    color: white;
+    color: rgb(255,255,255);
 }
