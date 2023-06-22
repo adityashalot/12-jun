@@ -29,5 +29,18 @@
 }
 .container2{
     background-color: rgb(75, 75, 75);
-    height: 25rem;
+    height: 27rem;  
+    display: flex; 
+}
+
+.box{
+    width: 800px;
+    height: 400px;
+    background-color: white;
+    margin: 20px;
+}
+
+img{
+    height: 250px;
+    width: 470px;
 }
